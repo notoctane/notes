@@ -1,2 +1,2 @@
 <?xml version='1.0' encoding='utf-8'?>
-<studentList><student id="1"><name>Утямомо</name><lastname>Утямомович</lastname><score type="float">100.0</score><gender>True</gender></student></studentList>
+<studentList><student id="1"><name>Утямомо</name><lastname>Утямомович</lastname><score type="float">100.0</score><gender>True</gender></student><student id="2"><name>3e12</name><lastname>323</lastname><score type="float">321321</score><gender>False</gender></student></studentList>
